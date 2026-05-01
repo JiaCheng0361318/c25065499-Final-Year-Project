@@ -1,10 +1,10 @@
 This is the Final Year Project ( Cardiff University Bachelor of Computer Science).
 
-Author: Wong Jia Cheng 25065499
+Author: Wong Jia Cheng 25065499.
 email: wongjc3@cardiff.ac.uk
 
-Supervisor: Xianfang Sun
-SunX2@cardiff.ac.uk
+Supervisor: Xianfang Sun.
+email: SunX2@cardiff.ac.uk
 
 
 
